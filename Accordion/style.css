@@ -44,10 +44,6 @@ body {
   border-radius: 6px;
   transition: all 0.25s ease;
 }
-
-.btn-toggle:hover {
-  background-color: #f3f0ff;
-}
 .number {
   padding-right: 15px;
   font-weight: 600;
